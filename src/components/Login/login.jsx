@@ -20,7 +20,7 @@
 // export default Login;
 
 import React from "react";
-import "./Login.css";
+import "./login.css";
 
 const Login = () => {
   return (
